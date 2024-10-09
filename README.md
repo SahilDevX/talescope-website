@@ -1,2 +1,2 @@
-# Talescope-comapnay-website
+# Talescope-company-website
 Company website
